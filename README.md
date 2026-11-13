@@ -1,3 +1,5 @@
+> **Exploration fork:** This repository is a fork of [OpenClaw](https://github.com/openclaw/openclaw). The upstream authors built the assistant. No original runtime contribution is claimed for this fork. [Fork notes](FORK-NOTES.md) explain the scope.
+
 # 🦞 Moltbot — Personal AI Assistant
 
 <p align="center">
